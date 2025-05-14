@@ -6,7 +6,7 @@
 
 [Economics](economics.md) - Department chair: <github username> 
 
-[Geography](geography.md) - Department chair: <ac-symonds>
+[Geography](geography.md) - Department chair: ac-symonds
 
 [History](history.md) - Department chair: diogoos
 
